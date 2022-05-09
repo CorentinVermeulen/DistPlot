@@ -7,5 +7,5 @@ Exercice combining the ggplot section, shiny section, package creation section.
 for installing:
 
 ```r
-devtools::install_git("CorentinVermeulen/DistPlot")
+devtools::install_github("CorentinVermeulen/DistPlot")
 ```
