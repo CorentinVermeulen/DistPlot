@@ -1,0 +1,12 @@
+Package: DistPlot
+Title: Static and shiny function for compâring normal and student distribution
+Version: 0.0.0.9000
+Authors@R: 
+    person("Corentin", "Vermeulen", , "corentin.vermeulen@student.uclouvain.be", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: For the exercice 2 of labs4 we had to create a package containing a function ( static version and shiny version).
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a license
+Imports: ggplot2, shiny
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
